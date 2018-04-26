@@ -3,10 +3,11 @@ This is a program that uses linked lists to store polynomials based off of a ter
 There are 3 methods total: add, evaluate, and multiply.
 
 # Add 
-  simply adds two polynomials and returns the sum in a new linked list.
+  Simply adds two polynomials and returns the sum in a new linked list.
 # Evaluate 
-  takes in a value and plugs into the polynomial and returns the value as a double.
+  Takes in a value and plugs into the polynomial and returns the value as a double.
 # Multiply 
-  simply multiplies two polynomials and returns the product in a new linked list.
+  Simply multiplies two polynomials and returns the product in a new linked list.
 
- 
+# To Run This Program
+  Polytest.java is the driver for Polynomial.java
